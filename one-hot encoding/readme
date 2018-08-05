@@ -3,7 +3,7 @@ How to test the program using sample input files?
 2. run following command in matlab
  
   - main('orf.coords_2528','orf.seq_2528','frags.seq_2528');
-  - combine_results('test_2528.txt');
+  - combine_results('test_output.txt');
   
   
   
