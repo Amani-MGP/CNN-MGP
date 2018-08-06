@@ -4,7 +4,7 @@ function combine_results(test_file)
 % CNN-MGP: Convolutional neural networks for Metagenomic Gene Prediction, 2018
 
 
-%The program will take test.txt file that produced by test_CNN.py as input and will produce the final prediction
+%The program will take test_output.txt file that produced by test_CNN.py as input and will produce the final prediction
 %in output_file.txt file
  
 
