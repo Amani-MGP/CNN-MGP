@@ -1,1 +1,1 @@
-put all files in a single folder and run file: test_CNN.py, the input is Test_orfSeqs.mat,gc.mat from matlab programs and the output is output_file.txt file
+put all files in a single folder and run file: test_CNN.py, the input is Test_orfSeqs.mat,gc.mat from matlab programs and the output is test_output.txt file
