@@ -3,7 +3,7 @@ function main(orf_coord,orf_seq,frag_seq)
 % Amani Abdullah
 % CNN-MGP: Convolutional neural networks for Metagenomic Gene Prediction, 2018
 
-% The main program will take orf_coord, orf_seq, frag_seq as input and produce Test_orfSeqs.csv as output. 
+% The main program will take orf_coord, orf_seq, frag_seq as input and produce Test_orfSeqs.mat as output. 
 % It calls two functions:
 
 
